@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science 
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me rahul.gowda4785@gmail.com
 
