@@ -1,9 +1,9 @@
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://github.com/ruby4785/ruby4785/blob/main/sysadmin_03.jpg" width="30"><br>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Rahul Kengeri, Data Scientist :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
