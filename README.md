@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Rahul Kengeri, Data Scientist :computer:<br>
   <br>
-    <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coder GIF" width="500">
+    <img src="https://github.com/ruby4785/ruby4785/blob/main/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
