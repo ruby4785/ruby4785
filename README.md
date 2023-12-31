@@ -23,7 +23,7 @@ I am Rahul a passionate data science enthusiast and I am currently pursuing my M
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Data Enthusiast, currently exploring data warehousing technologies 
+- :computer: I'm a Data Enthusiast, currently learning to build data analytics pipelines
 - :hourglass_flowing_sand: Exploring Snowflake, Apache Spark, Amazon Redshift
 - :rocket: Always ready to take on new and challenging problems
 - :man_technologist: Former Machine Learning Intern at Radiant Info Systems 
