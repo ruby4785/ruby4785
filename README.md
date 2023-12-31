@@ -3,6 +3,8 @@
    <img src="https://github.com/ruby4785/ruby4785/blob/main/banner.png" alt="Banner">
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Rahul Kengeri, Data Scientist :computer:<br>
+  <p>I am Rahul a passionate data science enthusiast and I am currently pursuing my Masters degree in Data Science at Rochester Institute of Technology. I thrive on solving complex problems and transforming data into actionable insights. My academic journey has equipped me with a strong foundation in data analytics, machine learning, and programming. I am eager to apply my skills and knowledge to real-world challenges in the field of data science. 
+</p>
    <br>
    
   <br>
