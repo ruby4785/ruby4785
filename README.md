@@ -24,10 +24,10 @@ I am Rahul a passionate data science enthusiast and I am currently pursuing my M
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Data Enthusiast, currently exploring data warehousing technologies 
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
+- :hourglass_flowing_sand: Exploring Snowflake, Apache Spark, Amazon Redshift
+- :rocket: Always ready to take on new and challenging problems
 - :man_technologist: Former Machine Learning Intern at Radiant Info Systems 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :dart: Life Hack: "Embrace challenges :mountain: as opportunities in disguise, and watch your skills soar :rocket: to new heights!"
 - :trophy: Winners Of Round 1 2023-2024 Saunders Business Analytics Competition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
