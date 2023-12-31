@@ -6,7 +6,7 @@
    <br>
    
   <br>
-    <img src="https://github.com/ruby4785/ruby4785/blob/main/giphy.gif" alt="Coder GIF" width="500">
+
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
