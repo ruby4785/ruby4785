@@ -18,7 +18,7 @@ I am Rahul a passionate data science enthusiast and I am currently pursuing my M
  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" alt="numpy" width="50" height="50"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="tableau" width="50" height="50"/> </a>
    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_77c883b19775c25838d2055fc2e7387e/scikit-learn.png" alt="seaborn" width="50" height="50"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_77c883b19775c25838d2055fc2e7387e/scikit-learn.png" alt="scikitlearn" width="90" height="50"/> </a>
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
