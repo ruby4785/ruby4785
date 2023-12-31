@@ -42,5 +42,5 @@
 
 <a href='https://www.linkedin.com/in/rahul-gowda-kk/' target="_blank"><img alt='LinkedIN' src='https://img.shields.io/badge/Rahul_Kengeri-100000?style=for-the-badge&logo=LinkedIN&logoColor=white&labelColor=0072b1&color=0072b1'/></a>
 <a href='https://www.instagram.com/rahul.gowda.kk/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/Rahul_Kengeri-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=d62976&color=d62976'/></a>
-<a href='rahulkengeri.com' target="_blank"><img alt='' src='https://img.shields.io/badge/rahulkengeri.com-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=080808'/></a>
+<a href='rahulkengeri.com' target="_blank"><img alt='' src='https://img.shields.io/badge/rahulkengeri.com-100000?style=for-the-badge&logo=&logoColor=white&labelColor=605E5E&color=605E5E'/></a>
 <a href='mailto:rahulkengeri1@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/rahulkengeri1@gmail.com-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FB0000&color=FF0000'/></a>
