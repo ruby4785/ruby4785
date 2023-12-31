@@ -16,6 +16,8 @@ I am Rahul a passionate data science enthusiast and I am currently pursuing my M
 <a href="https://reactjs.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="50" height="50"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="50" height="50"/> </a>
  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" alt="numpy" width="50" height="50"/> </a>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="tableau" width="50" height="50"/> </a>
+   <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
