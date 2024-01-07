@@ -20,6 +20,10 @@ I am Rahul a passionate data science enthusiast and I am currently pursuing my M
    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_77c883b19775c25838d2055fc2e7387e/scikit-learn.png" alt="scikitlearn" width="90" height="50"/> </a>
     </p>
+    <a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*QMemhsbRiAFIE-oqJNf27w.png" alt="snowflake" width="90" height="50"/> </a>
+   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.FJsMPN5kPMI7JuqhsaP7rAHaC3?rs=1&pid=ImgDetMain" alt="airflow" width="90" height="50"/> </a>
+      <a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="90" height="50"/> </a>
+    </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
